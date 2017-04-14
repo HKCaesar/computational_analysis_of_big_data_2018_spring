@@ -1,1 +1,7 @@
-
+*
+!.gitignore
+!Exercises**/**
+!Lectures**/**
+!Assignments**/**
+!README.md
+*/.ipynb_checkpoints
