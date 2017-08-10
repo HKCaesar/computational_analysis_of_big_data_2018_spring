@@ -1,6 +1,6 @@
 ### Computational Analysis of Big Data
 
-This is the GitHub page for the course [Computational Analysis for Big Data](https://disabroad.org/copenhagen/courses/computation-analyses-big-data/) offered by [DIS](https://disabroad.org/) offered at [DIS](https://disabroad.org/).
+This is the GitHub page for the course [Computational Analysis for Big Data](https://disabroad.org/copenhagen/courses/computation-analyses-big-data/) offered by [DIS](https://disabroad.org/).
 
 If you're a student of this course in the fall of 2017, then go ahead and:
 
