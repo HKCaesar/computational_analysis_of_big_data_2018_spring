@@ -8,4 +8,5 @@
 */.DS_Store
 making
 exercises/exercises_weekn.ipynb
+slides/slides_weekn.ipynb
 exercises/*_sol.ipynb
