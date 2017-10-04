@@ -10,6 +10,5 @@ making
 exercises/exercises_weekn.ipynb
 slides/slides_weekn.ipynb
 exercises/*_sol.ipynb
-#exercises/data/*
 */*_unfinished*
 exercises/data/.DS_Store
