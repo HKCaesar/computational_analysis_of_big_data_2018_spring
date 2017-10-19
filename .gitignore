@@ -12,3 +12,4 @@ slides/slides_weekn.ipynb
 exercises/*_sol.ipynb
 */*_unfinished*
 exercises/data/.DS_Store
+!data**/**
